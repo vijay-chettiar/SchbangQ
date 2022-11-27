@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63832f161179162888a23831"
+  },
+  "title": "Git",
+  "description": "Lets Learn Git",
+  "video_Url": "videourl",
+  "topics_array": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "duration": 120,
+  "category": "Information Tracker",
+  "pdfs": "",
+  "videos": "",
+  "quizzes": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63832f3e1179162888a23834"
+  },
+  "title": "Javascript",
+  "description": "Lets Learn Javascript",
+  "video_Url": "videourl",
+  "topics_array": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "duration": 150,
+  "category": "Programming Language",
+  "pdfs": "Javascript.pdf",
+  "videos": "Javascript-videos",
+  "quizzes": "Javascript-quiz",
+  "__v": 0
+}]

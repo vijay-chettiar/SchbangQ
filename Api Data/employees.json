@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "63832bcba00da1e9cd7ca422"
+  },
+  "name": "Jack",
+  "email": "jack@abc.com",
+  "password": "$2a$10$YIMUNEi.VL85ZA35RGvDa.Kyaxfd4F2zfAQ1OZaXmQFmBS1Rz0k7q",
+  "role": "Employee",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63832be4a00da1e9cd7ca425"
+  },
+  "name": "John",
+  "email": "john@abc.com",
+  "password": "$2a$10$/6wKlW65MQ.0xdf2e01pz.uKQQzgZvJGcfcDh1eGqiAe0vrmNBN8y",
+  "role": "Admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63832bfba00da1e9cd7ca428"
+  },
+  "name": "Bob",
+  "email": "bob@abc.com",
+  "password": "$2a$10$HmwNMehpRQfThWKAswgTNOnglu5XET7oIxLFH7NTkgPGlpjWTKZ6q",
+  "role": "Super Admin",
+  "__v": 0
+}]
